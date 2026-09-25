@@ -26,7 +26,7 @@ export default defineConfig({
     
     launchOptions: {
 
-      slowMo: 1500,
+      slowMo: 3000,
 
     },
 
